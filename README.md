@@ -28,6 +28,7 @@ These mods rework certain aspects of the game, usually changing them completely,
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.2 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client anord Server | Used | ✅ |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |  |
 
 ### Utility Mods
@@ -99,6 +100,11 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used | ✅ |
 | [Eating Animation](https://modrinth.com/mod/rUgZvGzi) | Client | Used | ✅ |
 | [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | [Custom Version](https://github.com/Motschen/Effective/releases) Used | ✅ |
+| [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used | ✅ |
+| [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client | Used | ✅ |
+| [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used | ✅ |
+| [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used | ✅ |
+| [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) | Client | Used |  |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used | ✅ |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used | ✅ |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used | ✅ |
@@ -129,6 +135,8 @@ These mods allow all the other mods to work.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client | Used | ✅ |
+| [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used | ✅ |
+| [Midnight Lib](https://modrinth.com/mod/codAaoxh) | Client | Used | ✅ |
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used | ✅ |
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client| Used | ✅ |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Planned, once updating to 1.20.1 | ✅ |

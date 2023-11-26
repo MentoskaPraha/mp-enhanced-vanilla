@@ -9,6 +9,10 @@ file = "client-overrides/config/betterf3.json"
 hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
 
 [[files]]
+file = "client-overrides/config/effective.json"
+hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
+
+[[files]]
 file = "client-overrides/config/inventoryprofilesnext/Test/villager-trading-config.json"
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
@@ -45,6 +49,10 @@ file = "client-overrides/mods/textures/quilted_clear_skies-1.0.0+1.19.3_above.ja
 hash = "24ce7a06f8fe203824bf9c08de49c9e2c823467e47d1f344ef4feef11a819689"
 
 [[files]]
+file = "client-overrides/options.txt"
+hash = "f4959ff25f242a05db418ad210313aecbef3b4a0a4937afed598008599e7aca2"
+
+[[files]]
 file = "client-overrides/resourcepacks/VanillaTweaks.zip"
 hash = "7206c2419561b9b795e7f7b02eae730f2735187b401201b9e183b098f073c3d6"
 
@@ -63,6 +71,11 @@ hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
 [[files]]
 file = "credits.txt"
 hash = "c030d1a4ace3c0ddd741cc2517a51b751a1d2be4018fd2b1fca93781bb733bd7"
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
+metafile = true
 
 [[files]]
 file = "mods/fixes/antighost.pw.toml"
@@ -150,6 +163,11 @@ hash = "49de444c6eac03aeb36478279cb9becf9bd3e1627b0bbe702d0e1574187e5fe4"
 metafile = true
 
 [[files]]
+file = "mods/libs/bookshelf-lib.pw.toml"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
+metafile = true
+
+[[files]]
 file = "mods/libs/cloth-config.pw.toml"
 hash = "44774c492b93a1a2dd4010ee1827abfabde7de4ba9b92f769504b935fb859b6d"
 metafile = true
@@ -180,6 +198,11 @@ hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
+file = "mods/libs/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/libs/qkl.pw.toml"
 hash = "8259f5c5b72ef4dc0c816996bfdf055409a467683c34eaa25e7eff881d13dafc"
 metafile = true
@@ -197,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/libs/yungs-api.pw.toml"
 hash = "68be3cd16bdcef4840eae082c9b701f63734ccbc6dc2230f239da278fb250108"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
 metafile = true
 
 [[files]]
@@ -262,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/misc/travelers-titles.pw.toml"
 hash = "df6c42195656610837ff05462ac37bb40da04a18de198333769030c562cbfe2d"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
 
 [[files]]
@@ -332,6 +365,21 @@ metafile = true
 [[files]]
 file = "mods/optimasations/starlight.pw.toml"
 hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+metafile = true
+
+[[files]]
+file = "mods/reworks/do-a-barrel-roll.pw.toml"
+hash = "4e2e4014bc2fd65512ea067da78d83a3f2935f47acc019c2e40adc3d2569af22"
 metafile = true
 
 [[files]]
