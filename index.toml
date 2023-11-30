@@ -73,11 +73,6 @@ file = "credits.txt"
 hash = "c030d1a4ace3c0ddd741cc2517a51b751a1d2be4018fd2b1fca93781bb733bd7"
 
 [[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
-metafile = true
-
-[[files]]
 file = "mods/fixes/antighost.pw.toml"
 hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
 metafile = true
@@ -223,11 +218,6 @@ hash = "68be3cd16bdcef4840eae082c9b701f63734ccbc6dc2230f239da278fb250108"
 metafile = true
 
 [[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
-metafile = true
-
-[[files]]
 file = "mods/misc/advancement-plaques.pw.toml"
 hash = "17e3a38e3a681732d7a40b262bbd74bf8227ed7cd9ef87bae71816dd1670b6d0"
 metafile = true
@@ -290,11 +280,6 @@ metafile = true
 [[files]]
 file = "mods/misc/travelers-titles.pw.toml"
 hash = "df6c42195656610837ff05462ac37bb40da04a18de198333769030c562cbfe2d"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
 
 [[files]]
@@ -368,16 +353,6 @@ hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
-metafile = true
-
-[[files]]
 file = "mods/reworks/do-a-barrel-roll.pw.toml"
 hash = "4e2e4014bc2fd65512ea067da78d83a3f2935f47acc019c2e40adc3d2569af22"
 metafile = true
@@ -390,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/textures/blahaj-of-undying.pw.toml"
 hash = "9995ebc17bc91f1ce0355ca6edff3fcd65477f394f8d5875e29843d9ac3c2243"
+metafile = true
+
+[[files]]
+file = "mods/textures/cave-dust.pw.toml"
+hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
 
 [[files]]
@@ -415,6 +395,26 @@ metafile = true
 [[files]]
 file = "mods/textures/entitytexturefeatures.pw.toml"
 hash = "71c96577e14c025bb923dbe0b65caca45f776d50d0b2eec68aaa48b18a43ff2f"
+metafile = true
+
+[[files]]
+file = "mods/textures/make_bubbles_pop.pw.toml"
+hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+metafile = true
+
+[[files]]
+file = "mods/textures/nyfs-spiders.pw.toml"
+hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
+metafile = true
+
+[[files]]
+file = "mods/textures/particle-rain.pw.toml"
+hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
+metafile = true
+
+[[files]]
+file = "mods/textures/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
 
 [[files]]

@@ -93,7 +93,7 @@ These mods fix certain aspects of the game.
 ### Texture Mods
 These mods allow texturepacks to work and rework some textures sometimes.
 
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.2 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Blåhaj of Undying](https://modrinth.com/mod/aJb4vlkM) | Client | Used | ✅ |
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used |  |
@@ -112,7 +112,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 ### Misc Mods
 These mods didn't fit into any of the other categories so, they're just dumbed in this one.
 
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.2 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client | Used |  |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used | ✅ |
@@ -132,7 +132,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 ### Library Mods
 These mods allow all the other mods to work.
 
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.2 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client | Used | ✅ |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used | ✅ |
